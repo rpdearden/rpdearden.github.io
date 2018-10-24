@@ -39,7 +39,7 @@ email: rpdearden@gmail.com
 avatar: assets/images/Dickpic.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: #"/blog" # the subpath of your site, e.g. /blog
+baseurl: "/rpdeardenwebsite" # the subpath of your site, e.g. /blog
 url: #"https://rpdearden.github.io" # the base hostname & protocol for your site
 
 # Social settings
