@@ -3,3 +3,7 @@ Website to do:
 
 -change thumbnail size picture
 -Write blog update
+
+-Optimise using Google pagespeedinsights
+	-https://wiredcraft.com/blog/make-jekyll-fast
+	-Also ImageOptim
