@@ -4,7 +4,7 @@ author: Richard Dearden
 layout: post
 ---
 
-**New job, old fish: An introduction to Acanthodes**
+**New job, old fish: adventures with Acanthodes**
 
 I have got a new job, and with that have made a resolution to resurrect my blogging.
 I'm at the Muséum national d'histoire naturelle (MNHN) in Paris for the next year to look at two things I'm interested in: [the early evolution of cartilaginous fishes, and pharynxes](http://www.dim-map.fr/projets-soutenus/phare/).
