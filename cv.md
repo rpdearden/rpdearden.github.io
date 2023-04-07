@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-use-site-title: true
+subtitle: Things wot I have done
 ---
 
 <div id="pdf" style="height: 800px;"></div>
