@@ -22,10 +22,11 @@ author: Richard P. Dearden
 navbar-links:
   Me & My Research: "aboutme"
   Publications: "publications
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Other stuff: "otherstuff"
+  
+### Resources:
+##  - Beautiful Jekyll: "https://beautifuljekyll.com"
+#  - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
