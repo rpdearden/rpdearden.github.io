@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: My palaeoichthyological burblings
+subtitle: Assorted palaeoichthyological burblings
 ---
 ### Peer-reviewed publications
 
