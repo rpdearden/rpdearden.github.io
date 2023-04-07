@@ -7,7 +7,7 @@ subtitle: Writings on Fossil Fishes
 
 **2023**
 
-**Dearden RP**, Herrel A, and Pradel A (2023) Evidence for high-performance suction feeding in the Pennsylvanian stem-group holocephalan *Iniopera*. [*PNAS*](https://doi.org/10.1073/pnas.2207854119) (\* joint lead authors).
+**Dearden RP**, Herrel A, and Pradel A (2023) Evidence for high-performance suction feeding in the Pennsylvanian stem-group holocephalan *Iniopera*. [*PNAS*](https://doi.org/10.1073/pnas.2207854119)
 
 **2022**
 
