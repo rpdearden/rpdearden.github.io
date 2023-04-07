@@ -129,17 +129,17 @@ keywords: "chondrichthyan,shark,fossil"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#A4C663"
+navbar-col: "#004D34"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#7A9E35"
+navbar-border-col: "#0B7250"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#8A2E60"
-hover-col: "#671140"
-footer-col: "#A4C663"
+link-col: "#DC6D2F"
+hover-col: "#F7965F"
+footer-col: "#004D34"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#8A2E60"
-footer-hover-col: "#671140"
+footer-link-col: "#DC6D2F"
+footer-hover-col: "#F7965F"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
