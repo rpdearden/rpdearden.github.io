@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: Things wot I have done
+subtitle: Things that I have done
 ---
 
 <div id="pdf" style="height: 800px;"></div>
