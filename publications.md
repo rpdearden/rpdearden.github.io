@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Writings on Fossil Fishes
+subtitle: My palaeoichthyological burblings
 ---
 ### Peer-reviewed publications
 
