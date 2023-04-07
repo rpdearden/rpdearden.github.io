@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New website
-subtitle: Each post also has a subtitle
+title: New Website
+subtitle: Old Fishes
 gh-repo: rpdearden/rpdearden.github.io
 gh-badge: [star, fork, follow]
 tags: [News]
