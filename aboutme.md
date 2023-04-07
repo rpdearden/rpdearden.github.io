@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The early evolution of vertebrates
 ---
+I am a postdoctoral research fellow at the Naturalis Biodiversity Center, the Dutch national natural history museum in Leiden. I am interested in the evolution of vertebrates, especially in the cartilaginous fishes, the group that includes living sharks and rays. 
 
-My name is Inigo Montoya. I have the following qualities:
+This website has my CV and a publication list and links to my social media. It also has my blog, Deadfishes, on which I post short write ups of random things I think are interesting in the world of palaeoichthyology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
