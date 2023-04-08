@@ -4,6 +4,8 @@ title: Dead Fishes Blog
 subtitle: A blog about Dead Fishes
 ---
 
+![Me](/assets/img/DeadFishes.png)
+
 Below are my blog posts.
 
 <ul>
