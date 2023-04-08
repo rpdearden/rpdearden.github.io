@@ -123,6 +123,10 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 keywords: "chondrichthyan,shark,fossil"
 
+# Put blog on blog page
+paginate_path: "/blog/page:num/"
+
+
 ######################################
 # --- Colours / background image --- #
 ######################################
