@@ -3,7 +3,10 @@ layout: page
 title: About me
 subtitle: The early evolution of vertebrates
 ---
-I am a postdoctoral research fellow at the Naturalis Biodiversity Center, the Dutch national natural history museum in Leiden. I am interested in the evolution of vertebrates, especially in the cartilaginous fishes, the group that includes living sharks and rays. 
+I am a postdoctoral research fellow at the Naturalis Biodiversity Center, which is the Dutch national natural history museum in Leiden. At the moment I am funded by my Marie Skłodowska-Curie postdoctoral fellowship [DEADSharks: divergence times, evolution, and anatomy deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426). 
 
-This website has my CV and a publication list and links to my social media. It also has my blog, Deadfishes, on which I post short write ups of random things I think are interesting in the world of palaeoichthyology.
+![Me](/assets/img/Goblin_hole.jpg)
 
+Previously I have done postdocs at the University of Birmingham, UK and the Muséum National d'Histoire Naturelle, Paris, France. Before that I did my PhD at Imperial College London, a Masters at the Univeristy of Bristol, and my undergrad at the University of Cambridge.
+
+As well as fossil fishes I also enjoy reading books (especially popular history and science fiction) painting miniatures (Warhammer 40k mostly), and playing computer games (grand strategy, action-RPG).
