@@ -124,7 +124,7 @@ navbar-var-length: false
 keywords: "chondrichthyan,shark,fossil"
 
 # Put blog on blog page
-paginate_path: "/blog/page:num/"
+#paginate_path: "/blog/page:num/"
 
 
 ######################################
@@ -135,7 +135,7 @@ paginate_path: "/blog/page:num/"
 
 navbar-col: "#114B5F"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#114B5F"
+navbar-border-col: "#404040"
 page-col: "#F3D9E4”
 text-col: "#404040"
 link-col: “#1A936F”
