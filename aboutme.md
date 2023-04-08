@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: The early evolution of vertebrates
+subtitle: A palaeoichthyological postdoc
 ---
 I am a postdoctoral research fellow at the Naturalis Biodiversity Center, which is the Dutch national natural history museum in Leiden. At the moment I am funded by my Marie Skłodowska-Curie postdoctoral fellowship [DEADSharks: divergence times, evolution, and anatomy deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426). 
 
