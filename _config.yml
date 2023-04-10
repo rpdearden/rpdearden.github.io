@@ -23,7 +23,10 @@ navbar-links:
   About me: "aboutme"
   Research: "research"
   Blog: "blog"
-  Publications: "publications"
+  Publications:
+    - Peer-reviewed: "publications"
+    - Other: "articles"
+    – 3D Datasets: "3DData"
   CV: "cv"
 
   
