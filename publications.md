@@ -31,10 +31,3 @@ Brazeau MD, Giles S, **Dearden RP**, Jerve A, Ariunchimeg YA, Zorig E, Sansom R,
 
 **Dearden RP**, Stockey CS, and Brazeau MD (2019) The pharynx of the stem-chondrichthyan *Ptomacanthus* and the early evolution of the gnathostome gill skeleton. [*Nature Communications*](https://doi.org/10.1038/s41467-019-10032-3)
 
-### Other Articles
-
-Pradel A and **Dearden RP** (2022) Un cerveau de chimère fossilisé ! *Paléontologie d'aujourd'hui* Eds. Sylvain Charbonnier and Patrick de Wever, EDP Sciences, Les Ulis
-
-**Dearden RP** (2019) A fossilised gill skeleton in an early shark relative [*Nature Community: Behind the Paper*](https://ecoevocommunity.nature.com/posts/48550-a-fossilised-gill-skeleton-in-an-early-shark-relative)
-
-**Dearden RP** (2015) Fossil Focus: Acanthodians [*Palaeontology\[Online\]](https://www.palaeontologyonline.com/articles/2015/fossil-focus-acanthodians/)
