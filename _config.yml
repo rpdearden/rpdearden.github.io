@@ -24,8 +24,8 @@ navbar-links:
   Research: "research"
   Blog: "blog"
   Publications:
-    - Peer-reviewed: "publications"
-    - Other: "articles"
+    – Peer-reviewed: "publications"
+    – Other: "articles"
     – 3D Datasets: "3DData"
   CV: "cv"
 
