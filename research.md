@@ -14,6 +14,6 @@ During my PhD I worked on an older episode in chondrichthyan evolution, studying
 
 Beyond sharks I also have an interest in the earliest jawed vertebrates. Rather counter-intuitively these animals lacked jaws, and during my postdoc in Birmingham I worked on how these animals fed, trying to understand the 3D anatomy of their feeding apparatus.
 
-<center><video src="/assets/img/Acanthodes_SAA21.mp4" type="video/mp4" title="Video of Acanthodes, a Permian chondrichthyan" controls="true" autoplay="true" height="600" /></center>
+<center><video src="/assets/img/Acanthodes_SAA21.mp4" type="video/mp4" title="Video of Acanthodes, a Permian chondrichthyan" controls="true" autoplay="true" height="450" /></center>
 
 A unifying theme in my research into these areas is the use of computed tomographic (CT) methods to image difficult-to-visualise specimens. These methods use x-rays to allow scientists to non-destructively and three-dimensionally visualise the shape of fossils inside the rocky matrix. Usually, I use industrial CT scanners to do this, for example the facility in Life Sciences at the University of Bristol. However, I've also been lucky enough to get time on synchrotron scanners, such as the ESRF in Grenoble. I combine the data from these methods with phylogenetic and functional morphological methods.
