@@ -8,7 +8,7 @@ I am interested in the early evolution of jawed vertebrates (gnathostomes), the 
 
 At the moment my research focuses on the evolution of modern sharks and rays (elasmobranchs). Modern groups of elasmobranch seem to have originated in the Mesozoic: I am trying to combine information from the skeletons of extinct sharks from this period with information of the anatomy and genomes of living sharks to try and understand how and when living groups of shark evolved.
 
-![Image of Iniopera, a stem-group chimaera](/assets/images/Iniopera6.png)
+![Image of Iniopera, a stem-group chimaera](/assets/img/Iniopera6.png)
 
 During my PhD I worked on an older episode in chondrichthyan evolution, studying the fossilised remains of acanthodians, some of the very earliest chondrichthyans which flourished during the Devonian. I continued this line of research during my first post-doc, in Paris, also becoming interested in early relatives of chimaeras from the Carboniferous.
 
