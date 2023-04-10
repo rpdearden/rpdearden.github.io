@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Peer-Reviewed Publications
 subtitle: Assorted palaeoichthyological burblings
 ---
-### Peer-reviewed publications
 
 **2023**
 
