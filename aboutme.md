@@ -11,6 +11,6 @@ Previously I have done postdocs at the University of Birmingham, UK and the Mus√
 
 I am involved in the [Palaeontological Association](https://www.palass.org/association/council) as the reviews editor and Trustee. I was also on the production team for Duncan Leosteus'award tiumph at the [Palaeovision Song Contest 2022](https://www.youtube.com/watch?v=k716l0ytDsg). 
 
-![Me](/assets/img/Miguasha.jpg)
+![Me2](/assets/img/Miguasha.jpg)
 
 As well as fossil fishes I also enjoy reading books (especially popular history and science fiction) painting miniatures (Warhammer 40k mostly), and playing computer games (grand strategy, action-RPG).
