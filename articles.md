@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Other Publications
-subtitle: Less formally scientific stuff
+subtitle: Preprints and informal publications
 ---
 
 ## Preprints
 
-Pascual-Anaya *et al.* Hagfish genome illuminates vertebrate whole genome duplications and their evolutionary consequences [*ResearchSquare*](https://assets.researchsquare.com/files/rs-2774434/v1_covered.pdf?c=1681090559)
+López-Romero F A, Villalobos-Segura E, Türtscher J, Berio F, Stumpf S, Dearden RP, Kriwet J,and Maldonado E (Submitted) Evolution of the Batoidea Pectoral Fin Skeleton: Convergence, Modularity, and Integration Driving Disparity Trends. [preprint at *BioRxiv*](https://doi.org/10.1101/2024.06.26.600866)
 
 ## Scientific writing
 
