@@ -1,10 +1,20 @@
 ---
 layout: page
 title: Peer-Reviewed Publications
-subtitle: Assorted palaeoichthyological burblings
+subtitle: Published work with colleagues
 ---
 
+**2024**
+
+**Dearden RP**, Herrel A, and Pradel A (2024) The pharynx of the iconic stem-group chondrichthyan *Acanthodes* (Agassiz, 1833) revisited with micro computed tomography. [*Zoological Journal of the Linnean Society*](https://doi.org/10.1093/zoolinnean/zlae058)
+
+**Dearden RP**, Jones AS, Giles S, Lanzetti A, Grohganz M, Johanson Z, Lautenschlager S, Randle E, Donoghue PCJ, Sansom IJ (2024) The three-dimensionally articulated oral apparatus of a Devonian heterostracan sheds light on feeding in Palaeozoic jawless fishes. [*Proceedings of the Royal Society B: Biological Sciences*](https://doi.org/10.1098/rspb.2023.2258)
+
+Yu D, Ren Y, Uesaka M *et al.* (including **Dearden RP**) (2024) Hagfish genome elucidates vertebrate whole genome duplication events and their evolutionary consequences. [*Nature Ecology & Evolution*](https://doi.org/10.1038/s41559-023-02299-z)
+
 **2023**
+
+**Dearden RP**, Lanzetti A, Giles S, Johanson Z, Jones AS, Lautenschlager S, Randle E, Sansom IJ (2023) The oldest three-dimensionally preserved vertebrate neurocranium. [*Nature*](https://doi.org/10.1038/s41586-023-06538-y)
 
 **Dearden RP**, Herrel A, and Pradel A (2023) Evidence for high-performance suction feeding in the Pennsylvanian stem-group holocephalan *Iniopera*. [*PNAS*](https://doi.org/10.1073/pnas.2207854119)
 
