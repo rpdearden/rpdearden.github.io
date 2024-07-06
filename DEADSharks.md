@@ -4,7 +4,7 @@ title: DEADSharks
 subtitle: Marie Skłodowska-Curie Action
 ---
 
-At present I am funded by a Marie Skłodowska-Curie Action [DEADSharks: Divergence times, Evolution, and Anatomy Deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426), based at Naturalis Biodiversity Center in the Netherlands.
+At present I am funded by a Marie Skłodowska-Curie Action [DEADSharks: Divergence times, Evolution, and Anatomy Deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426). I am based at Naturalis Biodiversity Center in the Netherlands and hosted by [Dr. Martin Rücklin ](https://www.naturalis.nl/en/science/researchers/martin-rucklin).
 
 In this project I am using 3D imaging methods to reveal for the first time the detailed skeletal morphology of Cretaceous sharks from the Chalk of the UK.
 
