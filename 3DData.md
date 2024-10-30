@@ -4,7 +4,7 @@ title: 3D Datasets
 subtitle: Fossil fishes, now in 3D!
 ---
 
-Below is a list of publicly available 3D datasets arising from my research. It is organised roughlytaxonomically and then alphabetically, by genus.
+Below is a list of publicly available 3D datasets arising from my research. It is organised roughly taxonomically and then alphabetically, by genus.
 
 ## Palaeozoic jawless fishes
 
@@ -24,7 +24,7 @@ NHMUK PV P 73217
 
 ***Acanthodes confusus*** [*Dearden* et al. *2024*](https://doi.org/10.1093/zoolinnean/zlae058) 
 MNHN-F-SAA20, MNHN-F-SAA21, and MNHN-F-SAA24
-* The tomograms on which the models were based are available at Morphosource ([MNHN-F-SAA20]((https:// doi.org/10.17602/M2/M569004),[MNHN-F-SAA21]((https://doi. org/10.17602/M2/M568233), and [MNHN-F-SAA24](https://doi. org/10.17602/M2/M568946))
+* The tomograms on which the models were based are available at Morphosource ([MNHN-F-SAA20](https:// doi.org/10.17602/M2/M569004),[MNHN-F-SAA21](https://doi. org/10.17602/M2/M568233), and [MNHN-F-SAA24](https://doi. org/10.17602/M2/M568946)
 * 3D models are available at [MorphoMuseum](https://doi.org/10.18563/journal.m3.226)
 
 ***Iniopera*** **sp.** [*Dearden et al. 2023*](https://www.pnas.org/doi/10.1073/pnas.2207854119) 
