@@ -34,13 +34,23 @@ KUVP 158289 and KUVP 22060
 
 ***Vernicomacanthus uncinatus*** [*Dearden et al. 2021*](https://onlinelibrary.wiley.com/doi/full/10.1002/spp2.1369) 
 NMS G.2001.7.4
-* CT tomograms of an isolated *Vernicomacanthus* body scale are available at [MorphoSource](https://doi.org/10.17602/M2/M351674)
+* Tomograms of an isolated *Vernicomacanthus* body scale are available at [MorphoSource](https://doi.org/10.17602/M2/M351674)
 * 3D models of an isolated *Vernicomacanthus* body scale are available at [MorphoSource](https://doi.org/10.17602/M2/M351685)
+
+## Mesozoic chondrichthyans
+
+***Pararhincodon torquis*** [*Dearden et al. 2025*](https://doi.org/10.1098/rsos.242011)
+* Tomograms of two articulated specimens are available at [Morphosource](https://www.morphosource.org/projects/000720390?locale=en)
+* 3D models of the skeleton are available at [Dryad](https://doi.org/10.5061/dryad.n5tb2rc5r)
 
 ## Extant chondrichthyans
 
 ***Callorhincus milii*** [*Dearden et al. 2021*](https://onlinelibrary.wiley.com/doi/10.1111/joa.13362)
 * 3D models of the head skeleton and musculature are available at [MorphoMuseum](https://morphomuseum.com/articles/view/133)
+
+***Parascyllium variolatum*** [*Dearden et al. 2025*](https://doi.org/10.1098/rsos.242011)
+* Tomograms =are available at [Morphosource](https://www.morphosource.org/projects/000720390?locale=en)
+* 3D models of the skeleton are available at [Dryad](https://doi.org/10.5061/dryad.n5tb2rc5r)
 
 ***Scyliorhinus canicula*** [*Dearden et al. 2021*](https://onlinelibrary.wiley.com/doi/10.1111/joa.13362)
 * 3D models of the head skeleton and musculature are available at [MorphoMuseum](https://morphomuseum.com/articles/view/133)
