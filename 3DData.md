@@ -49,7 +49,7 @@ NMS G.2001.7.4
 * 3D models of the head skeleton and musculature are available at [MorphoMuseum](https://morphomuseum.com/articles/view/133)
 
 ***Parascyllium variolatum*** [*Dearden et al. 2025*](https://doi.org/10.1098/rsos.242011)
-* Tomograms =are available at [Morphosource](https://www.morphosource.org/projects/000720390?locale=en)
+* Tomograms are available at [Morphosource](https://www.morphosource.org/projects/000720390?locale=en)
 * 3D models of the skeleton are available at [Dryad](https://doi.org/10.5061/dryad.n5tb2rc5r)
 
 ***Scyliorhinus canicula*** [*Dearden et al. 2021*](https://onlinelibrary.wiley.com/doi/10.1111/joa.13362)
