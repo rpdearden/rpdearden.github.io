@@ -4,7 +4,17 @@ title: Peer-Reviewed Publications
 subtitle: Published work with colleagues
 ---
 
+**2025**
+
+**Dearden R.P.**, Johanson, Z., O’Neill, H.L., Miles, K., Bernard, E.L., Clark, B., Underwood, C., and Rücklin, M. Three-dimensional fossils of a Cretaceous collared carpet shark (Parascylliidae, Orectolobiformes) shed light on skeletal evolution in galeomorphs. [*Royal Society Open Science*](https://doi.org/10.1098/rsos.242011). 
+
+Schnetz, L., Lanzetti A., Jones, A., **Dearden R.P.**, Lautenschlager S., Giles S., Johanson Z., and  Sansom, I.J. From head to tail: 3D imaging the whole body morphology of the stem gnathostome Anglaspis heintzi. [*Journal of Vertebrate Paleontology*](https://doi.org/10.1080/02724634.2025.2476441)
+
+López-Romero F. A., Villalobos-Segura E., Türtscher J., Berio F., Stumpf S., **Dearden R. P.**, Kriwet J.,and Maldonado E. 2025. Evolution of the Batoidea Pectoral Fin Skeleton: Convergence, Modularity, and Integration Driving Disparity Trends. [*Evolutionary Ecology*](https://doi.org/10.1007/s10682-025-10330-x)
+
 **2024**
+
+Brownstein C.D., Near T.J., and **Dearden R.P.** 2024 The Paleozoic assembly of the holocephalan body plan far preceded post-Cretaceous radiations into the ocean depths. [*Proceedings of the Royal Society B: Biological Sciences*](doi.org/10.1098/rspb.2024.1824)
 
 **Dearden RP**, Herrel A, and Pradel A (2024) The pharynx of the iconic stem-group chondrichthyan *Acanthodes* (Agassiz, 1833) revisited with micro computed tomography. [*Zoological Journal of the Linnean Society*](https://doi.org/10.1093/zoolinnean/zlae058)
 
