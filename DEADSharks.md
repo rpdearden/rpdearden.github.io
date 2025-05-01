@@ -10,7 +10,7 @@ In this project I am using 3D imaging methods to reveal for the first time the d
 
 I am combining this information with genomic and morphological data from living sharks to try and understand how and when shark groups diverged, and gain an insight into the evolution of their feeding ecology.
 
-The first publication from this is currently in preparation. A poster I presented on these results recently won the first place poster prize at NWO Life2024, a national Dutch Life Sciences research council conference.
+The first publication from this has just been published! Give it a read in [Royal Society Open Science](https://doi.org/10.1098/rsos.242011). A poster I presented on these results recently won the first place poster prize at NWO Life2024, a national Dutch Life Sciences research council conference.
 
 ![Winning the poster prize at NWO Life2024](/assets/img/Poster.jpg)
 
