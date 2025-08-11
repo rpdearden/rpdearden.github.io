@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: A palaeoichthyological postdoc
 ---
-I am currently a postdoc at the University of Birmingham, working on a project looking at early ray finned fish evolution. Until recently I am a postdoctoral research fellow at the Naturalis Biodiversity Center, which is the Dutch national natural history museum in Leiden. I was funded there by a Marie Skłodowska-Curie postdoctoral fellowship [DEADSharks: divergence times, evolution, and anatomy deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426). 
+I am currently a postdoc at the University of Birmingham, working on a project looking at early ray finned fish evolution. Until recently I was a postdoctoral research fellow at the Naturalis Biodiversity Center, which is the Dutch national natural history museum in Leiden. I was funded there by a Marie Skłodowska-Curie postdoctoral fellowship [DEADSharks: divergence times, evolution, and anatomy deciphered in early Sharks](https://cordis.europa.eu/project/id/101062426). 
 
 ![Me](/assets/img/Goblin_hole.jpg)
 
