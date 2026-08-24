@@ -5,6 +5,8 @@ subtitle: Preprints and informal publications
 ---
 
 ## Preprints
+Byrne H, Breet I, van Heuven B J, **Dearden R P**, Sanchez S, Johanson Z, Dean M, and Rücklin M, Early Ontogenetic Development of Tessellated Calcified Cartilage in Chondrichthyans, [*bioRxiv*](https://doi.org/10.64898/2026.08.21.746214)
+
 
 ## Scientific writing
 
