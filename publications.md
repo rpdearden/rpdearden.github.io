@@ -3,8 +3,15 @@ layout: page
 title: Peer-Reviewed Publications
 subtitle: Published work with colleagues
 ---
+**2026**
+
+[19] Stumpf, S., Türtscher, J., López-Romero, F.A. et al. (including **Dearden, R.P.**)  Reappraisal of the extinct barbelthroat shark †Bavariscyllium and the nebulous origin of carcharhiniform galeomorphs. [*Communications Biology*]( https://doi.org/10.1038/s42003-025-09272-5)
+
+[18] Griffin B.W., Keating J.N., Carmona P.M., Johanson Z., **Dearden R.P.**, Donoghue P.C.J., and Rayfield E.J. Evolution of Chondrichthyan jaw morphology, from ecological generalists to specialists. [*Paleobiology*](https://doi.org/10.1017/pab.2025.10077).
 
 **2025**
+
+[17] Andreev P.S., Zhu M., Brakenhoff L., Li Q., Zhao W., Peng L., Marone F., **Dearden, R.P.**, and Rücklin M. The shoulder girdle of early chondrichthyans grew by skeletal remodelling. [*Biology Letters*](https://doi.org/10.1098/rsbl.2025.0411).
 
 [16] **Dearden R.P.**, Johanson, Z., O’Neill, H.L., Miles, K., Bernard, E.L., Clark, B., Underwood, C., and Rücklin, M. Three-dimensional fossils of a Cretaceous collared carpet shark (Parascylliidae, Orectolobiformes) shed light on skeletal evolution in galeomorphs. [*Royal Society Open Science*](https://doi.org/10.1098/rsos.242011). 
 
